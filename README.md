@@ -11,7 +11,7 @@
 
 </p>
 <p align="center">
-<img src="https://pixelsafari.neocities.org/favicon/animals/dog/leash.gif" /> <b>robin</b> <i>or nico</i>  !  <img src="https://files.catbox.moe/2nc0vi.png" /> <img src="https://files.catbox.moe/5g791n.png" /> he/they , 18 <img src="https://i.imgur.com/ua9C0NL.gif"/>
+<img src="https://pixelsafari.neocities.org/favicon/animals/dog/leash.gif" /> <b>robin</b> <i>or  nico !!</i>『 <img src="https://files.catbox.moe/2nc0vi.png" /> <img src="https://files.catbox.moe/5g791n.png" /> 』 he/they , 18 <img src="https://i.imgur.com/ua9C0NL.gif"/>
 <p align="center"> w2i !! im mostly offtab or just distracted :3 </p>
 <p align="center"> im kinda shy so i might take some time to get comfortable around you </p>
 <p align="center"> ur always free to approach me , i promise i dont bite <3 <img src="https://i.imgur.com/6XpohMk.gif"/> </p>

@@ -1,33 +1,31 @@
 <p align="center">
-<img src="https://files.catbox.moe/xi82d3.gif" /> <img src="https://files.catbox.moe/fttbdc.gif" /> <img src="https://files.catbox.moe/i1amn1.webp" /> <img src="https://files.catbox.moe/e5xqlg.gif" /> 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b767fb9f-dc48-4dc9-b168-e99eb8a339d5/d5bhdy1-0f5205bf-3aa0-42c9-8c49-ac63fd4a38cf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3NjdmYjlmLWRjNDgtNGRjOS1iMTY4LWU5OWViOGEzMzlkNVwvZDViaGR5MS0wZjUyMDViZi0zYWEwLTQyYzktOGM0OS1hYzYzZmQ0YTM4Y2YuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.36UNYlGgZrC9N1sgEZA3HwTbOiF3twBlvKd4MN5uGAk" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/418073a9-dc51-452b-9bbe-d077a34aef7e/d516j64-42109e4d-1d44-4b34-aca5-a2adccff171b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxODA3M2E5LWRjNTEtNDUyYi05YmJlLWQwNzdhMzRhZWY3ZVwvZDUxNmo2NC00MjEwOWU0ZC0xZDQ0LTRiMzQtYWNhNS1hMmFkY2NmZjE3MWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PurwEs1dEBjIGxxC_9OyPFgirolJSeOMkDFNj-lvvRM" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc20df7c-8ea1-4e8d-98f1-1832f4748af5/d8twzw1-233b9a43-4c41-46cd-8bf1-126579d17427.png/v1/fill/w_99,h_56/charmmy_kitty_stamp_by_kittyjewelpet78_d8twzw1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYiLCJwYXRoIjoiXC9mXC9iYzIwZGY3Yy04ZWExLTRlOGQtOThmMS0xODMyZjQ3NDhhZjVcL2Q4dHd6dzEtMjMzYjlhNDMtNGM0MS00NmNkLThiZjEtMTI2NTc5ZDE3NDI3LnBuZyIsIndpZHRoIjoiPD05OSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JUQ0zMoUJVL1V_B9hTFsW2uLjMOujrXD5JbavppozUM" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99663bf6-7a1f-4ebf-b58f-6f5cefa3e41e/d226xf6-e456c19e-3720-4690-bcd5-eae12b6ab565.png/v1/fill/w_99,h_56/sugar_bunnies_by_bubblymilktea_d226xf6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYiLCJwYXRoIjoiXC9mXC85OTY2M2JmNi03YTFmLTRlYmYtYjU4Zi02ZjVjZWZhM2U0MWVcL2QyMjZ4ZjYtZTQ1NmMxOWUtMzcyMC00NjkwLWJjZDUtZWFlMTJiNmFiNTY1LnBuZyIsIndpZHRoIjoiPD05OSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.eRRwphljetISOvGWz8OyIIUjJSuWdVkZKtQ81Al38kk" /> 
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/4051445b627922d9ec67106d092355a3/46247295d550dc11-45/s400x600/be3a0ee491bf31296fd604978343ee5e4eef9d37.gif">
+  <img src="https://files.catbox.moe/sj65cr.gif">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/y9dc8w.png">
+  <img src="https://camo.githubusercontent.com/3f864b8678ccb9180759be46c3521df153b23802c6d37429562e4626222bbcb4/68747470733a2f2f66696c65732e636174626f782e6d6f652f7079696569312e676966">
 
-</p>
 <p align="center">
-<img src="https://pixelsafari.neocities.org/favicon/animals/dog/leash.gif" /> <b>robin</b> <i>or  nico !!</i>『 <img src="https://files.catbox.moe/2nc0vi.png" /> <img src="https://files.catbox.moe/5g791n.png" /> 』 he/they , 18 <img src="https://i.imgur.com/ua9C0NL.gif"/>
-<p align="center"> w2i !! im mostly offtab or just distracted :3 </p>
-<p align="center"> im kinda shy so i might take some time to get comfortable around you </p>
-<p align="center"> ur always free to approach me , i promise i dont bite <3 <img src="https://i.imgur.com/6XpohMk.gif"/> </p>
-<p align="center"> no dni i ate it all <img src="https://i.imgur.com/EmUbxuG.gif"/> <i>(-16 limit interactions)</i> </p>
+  <img src="https://i.imgur.com/x381P7A.gif">
+</p>
 
-
- </p> 
+<p align="center"> <img src="https://i.postimg.cc/MG73gVxg/e6fe5665.gif"/> <strong>robin</strong> <em>or</em> nico  <img src="https://i.postimg.cc/8zB6KkLc/ddkxz60-7c684f9e-ba41-4100-8223-68b04f5f7e71.gif" /> <b>he</b> they <em>!!</em> </p>
+<p align="center"> <em><b>18</b></em> , infp ( <img src="https://files.catbox.moe/2nc0vi.png" /> <img src="https://files.catbox.moe/5g791n.png" /> ) .⁺ ☆ </p>
+<p align="center"> w2i ! <img src="https://maguro.carrd.co/assets/images/gallery22/445ee766.gif?v=10a293e5"> im mostly offtab or just distracted ‎<img src="https://maguro.carrd.co/assets/images/gallery01/de504a89.gif?v=10a293e5"> </p>
+<p align="center">  basic dni, <b>just dont be a freak pls</b>.. </p>
+<p align="center"> <em>check my links</em> if u wanna learn more about me !! </p>
+<p align="center"> or maybe <a href="https://retrospring.net/@sugarchaos">leave a message</a> ? <img src="https://i.postimg.cc/3wx2TXG5/ei2bet.gif"> </p>
  
 <p align="center">
-  <img src="https://64.media.tumblr.com/4051445b627922d9ec67106d092355a3/46247295d550dc11-45/s400x600/be3a0ee491bf31296fd604978343ee5e4eef9d37.gif">
+  <img src="https://files.catbox.moe/jcf9bp.png">
 </p>
 
 <p align="center">
-<img src="https://collection.ju.mp/assets/images/gallery35/2af3a606.jpg?v=0236594d" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88ad7a11-9935-4e47-9df5-143cd57cf37d/d4yj2uv-b3923b69-6a40-4ba1-910b-320e18970a97.png/v1/fill/w_99,h_56/marvel_comics_deadpool_fan_stamp_by_da__bogeyman_d4yj2uv-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYiLCJwYXRoIjoiXC9mXC84OGFkN2ExMS05OTM1LTRlNDctOWRmNS0xNDNjZDU3Y2YzN2RcL2Q0eWoydXYtYjM5MjNiNjktNmE0MC00YmExLTkxMGItMzIwZTE4OTcwYTk3LnBuZyIsIndpZHRoIjoiPD05OSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vztnjV7rNt4IeYXBO8O1V4JNES2olHdG9J3-2o_gDLE" /> <img src="https://pixelsafari.neocities.org/stamps/cateeper.gif" /> <img src="https://64.media.tumblr.com/d864958b673dc49f00537b5edc366f61/c937cea2bae71fd6-c1/s100x200/fd5563a2e39657d47abbf8aba586cff3245da019.gifv"/> <img src="https://external-media.spacehey.net/media/s2ZxRui4tMb1yNplJ13sQZru7sWomugjuOEgZ1KRPkOk=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b8e1738b-f255-42d0-aa82-2b6e95da3a11/dau29yq-782a559c-c1b8-415f-9589-5e39aa8cd2bf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I4ZTE3MzhiLWYyNTUtNDJkMC1hYTgyLTJiNmU5NWRhM2ExMVwvZGF1Mjl5cS03ODJhNTU5Yy1jMWI4LTQxNWYtOTU4OS01ZTM5YWE4Y2QyYmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bc2IUb_wEmpIoB0uSynCr1O0f7vBMieCuqO6Cp4fd6U"/>
+<img src="https://i.postimg.cc/DzskgnCp/78105a0a-original.png"/> <img src="https://i.postimg.cc/R04QhJWm/d8u1gdz-f96c7f51-5890-4623-a599-bca85bc38fd0.png"/> <img src="https://files.catbox.moe/0pbhlq.png"/> <img src="https://64.media.tumblr.com/185a6bef9820040c4bf5ad441c7c8ff1/c3f0591e75d04da1-fb/s100x200/f2956ba3d54bc2016b7ab5bd3a3ff543b6bcd0ee.gifv"/>
 </p>
-
-<p align="center"> <i>check my links to know more about me or just leave a message on my <a href="https://sugarchaos.123guestbook.com/">guestbook</a> !</i> </p>
 
   

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/3f864b8678ccb9180759be46c3521df153b23802c6d37429562e4626222bbcb4/68747470733a2f2f66696c65732e636174626f782e6d6f652f7079696569312e676966">
+  <img src="https://files.catbox.moe/9j0y5q.png">
 
 <p align="center">
   <img src="https://i.imgur.com/x381P7A.gif">

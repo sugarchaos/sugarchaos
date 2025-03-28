@@ -14,11 +14,10 @@
 </p>
 
 <p align="center"> <img src="https://i.postimg.cc/MG73gVxg/e6fe5665.gif"/> <strong>robin</strong> <em>or</em> nico  <img src="https://i.postimg.cc/8zB6KkLc/ddkxz60-7c684f9e-ba41-4100-8223-68b04f5f7e71.gif" /> <b>he</b> they <em>!!</em> </p>
-<p align="center"> <em><b>18</b></em> , infp ( <img src="https://files.catbox.moe/2nc0vi.png" /> <img src="https://files.catbox.moe/5g791n.png" /> ) .⁺ ☆ </p>
+<p align="center"> <em><b>19</b></em> , infp ( <img src="https://files.catbox.moe/2nc0vi.png" /> <img src="https://files.catbox.moe/5g791n.png" /> ) .⁺ ☆ </p>
 <p align="center"> w2i ! <img src="https://maguro.carrd.co/assets/images/gallery22/445ee766.gif?v=10a293e5"> im mostly offtab or just distracted ‎<img src="https://maguro.carrd.co/assets/images/gallery01/de504a89.gif?v=10a293e5"> </p>
 <p align="center">  basic dni, <b>just dont be a weirdo</b>... </p>
-<p align="center"> <em>check my links</em> if u wanna learn more about me !! </p>
-<p align="center"> or maybe <a href="https://retrospring.net/@sugarchaos">leave a message</a> ? <img src="https://i.postimg.cc/3wx2TXG5/ei2bet.gif"> </p>
+<p align="center"> <em>check my links</em> if u wanna learn more about me !! <img src="https://i.postimg.cc/3wx2TXG5/ei2bet.gif"> </p>
  
 <p align="center">
   <img src="https://files.catbox.moe/jcf9bp.png">
